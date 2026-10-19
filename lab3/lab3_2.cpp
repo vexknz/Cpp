@@ -25,7 +25,7 @@ int main() {
     switch (animal_number) {
         case 1:  cout << "миша";   break;
         case 2:  cout << "бик";    break;
-        case 3:  :cout << "тигр";   break;
+        case 3:  cout << "тигр";   break;
         case 4:  cout << "кіт";    break;
         case 5:  cout << "дракон"; break;
         case 6:  cout << "змія";   break;
